@@ -1,0 +1,6 @@
+C:\Users\lthw148\Downloads\psoc student pack (2)\psoc student pack (2)\psoc student pack\psoc student pack\psoc_code_base\hardware_task_1.cydsn\hardware_task_1.cyprj|2abbb70f-24ce-4b36-a5e8-182ad3cea8d3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|da6f8a60-fd39-4b0c-8389-e15030ca965d
+C:\Users\lthw148\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|38630d93-0a5f-4c38-b0c8-600a799d7ae0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|7ba9fae8-0f97-4930-bcae-da5ffb9faf24
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ea089883-e57e-49be-a877-3beaba94eb77
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ce938d35-deaf-47c4-8d37-01c816fcbc4e

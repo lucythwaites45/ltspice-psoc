@@ -1,0 +1,9 @@
+Loading plugins phase: Elapsed time ==> 0s.129ms
+<CYPRESSTAG name="CyDsfit arguments...">
+cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p C:\Users\lucky\Downloads\psoc student pack (2)\psoc student pack\psoc student pack\lab exercise\psoc_intro\lab1.cydsn\lab1.cyprj -d CY8C5888LTI-LP097 -s C:\Users\lucky\Downloads\psoc student pack (2)\psoc student pack\psoc student pack\lab exercise\psoc_intro\lab1.cydsn\Generated_Source\PSoC5 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+</CYPRESSTAG>
+<CYPRESSTAG name="Design elaboration results...">
+ADD: sdb.M0052: error: Unable to find component "cy_boot_v5_82".
+
+</CYPRESSTAG>
+Elaboration phase: Elapsed time ==> 0s.921ms
