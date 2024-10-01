@@ -1,0 +1,13 @@
+* C:\Users\lthw148\Documents\GitHub\ltspice-psoc\Draft1.asc
+V1 N004 0 SINE(5 5 1000) AC 1
+C1 vout N004 318.3n
+R1 vout 0 1k
+XU1 N003 N001 5V 0 N002 LT1001
+V§5V 5V 0 5
+R2 N002 N001 1k
+R3 N001 0 1k
+V2 N003 0 0.5
+.tran 0 1s 0 0.001
+.lib LTC.lib
+.backanno
+.end
