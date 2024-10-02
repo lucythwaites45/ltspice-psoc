@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DesignWideResources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://cypress.com/xsd/cydwr">
+  <Group key="Analog2">
+    <Group key="MUX_ROUTING" />
+    <Group key="NET_ROUTING" />
+    <Group key="PLACEMENT" />
+    <Group key="RIPUP_MUX" />
+    <Group key="RIPUP_ROUTE" />
+    <Group key="ULTRA_NET_ROUTING" />
+  </Group>
   <Group key="Clock2">
     <Data key="ClockSolver" value="1" />
     <Group key="DesigneWideClks" />
