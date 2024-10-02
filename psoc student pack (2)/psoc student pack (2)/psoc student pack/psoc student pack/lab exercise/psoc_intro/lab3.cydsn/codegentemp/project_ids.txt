@@ -1,9 +1,11 @@
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7edb1ff1-5e31-432d-b377-2b6f0f497d6d
-C:\Users\lucky\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|ba3b012a-7851-4c5a-b8b2-b1f790da4aed
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|1fcd1714-4a4b-4ac3-b6c5-060a50561a23
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|52c187f3-670c-42f7-85d9-94165322948c
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|6c1b0795-5956-46c9-9546-bf2476888d58
-C:\Users\lucky\Downloads\psoc student pack (2)\psoc student pack\psoc student pack\psoc_code_base\CS301_Class.cydsn\CS301_Class.cyprj|bf2bdc90-bb9e-4282-a87a-069502b6d316
-C:\Users\lucky\Downloads\psoc student pack (2)\psoc student pack\psoc student pack\lab exercise\psoc_intro\lab3.cydsn\lab3.cyprj|1338a37c-4045-4d49-b439-21ac8cef0b20
-C:\Users\lucky\Downloads\psoc student pack (2)\psoc student pack\psoc student pack\lab exercise\psoc_intro\lab2.cydsn\lab2.cyprj|6f5e32a3-054e-457d-bda9-7f48a7cfedba
-C:\Users\lucky\Downloads\psoc student pack (2)\psoc student pack\psoc student pack\lab exercise\psoc_intro\lab1.cydsn\lab1.cyprj|9b5588c4-b63c-4130-b447-cdb7de92eacf
+C:\Users\lthw148\Documents\GitHub\ltspice-psoc\psoc student pack (2)\psoc student pack (2)\psoc student pack\psoc student pack\lab exercise\psoc_intro\lab2.cydsn\lab2.cyprj|2b3676aa-3593-41f3-84ff-0e2e73f5f631
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|b27f40ed-f9f3-4275-a18a-e287812ea062
+C:\Users\lthw148\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|66f2a168-e420-471c-8aee-fa08cb61ed03
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|ed584803-fe66-4db3-bb18-45ffce5aa7d3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|52ebe413-5e47-4b57-b38e-02d6d9c4cdde
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|1299d13b-72b3-4024-b03d-84376fe05a41
+C:\Users\lthw148\Documents\GitHub\ltspice-psoc\psoc student pack (2)\psoc student pack (2)\psoc student pack\psoc student pack\lab exercise\psoc_intro\lab1.cydsn\lab1.cyprj|7f8d589d-fb07-4a04-9843-68cbbde9c0a7
+C:\Users\lthw148\Documents\GitHub\ltspice-psoc\psoc student pack (2)\psoc student pack (2)\psoc student pack\psoc student pack\lab exercise\psoc_intro\lab3.cydsn\lab3.cyprj|2a52b767-a6a9-442c-90c7-25ff9905900c
+C:\Users\lthw148\Documents\GitHub\ltspice-psoc\psoc student pack (2)\psoc student pack (2)\psoc student pack\psoc student pack\psoc_code_base\hardware_task_1.cydsn\hardware_task_1.cyprj|46e1de04-fa8a-4517-8b6e-f0c6039d91b1
+C:\Users\lthw148\Documents\GitHub\ltspice-psoc\psoc student pack (2)\psoc student pack (2)\psoc student pack\psoc student pack\psoc_code_base\hardware_task_2.cydsn\hardware_task_2.cyprj|03372976-7901-4a28-b759-e15e6cbd0833
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\dev\psoc3\AnalogDevice\PSoC35AnalogDevice.cylib\PSoC35AnalogDevice.cyprj|a6710868-0358-4c9a-b036-e0440406d29f

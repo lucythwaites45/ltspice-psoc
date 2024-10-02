@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
   28:Generated_Source\PSoC5/isr_TC.c **** ********************************************************************************/
   29:Generated_Source\PSoC5/isr_TC.c **** /* `#START isr_TC_intc` */
   30:Generated_Source\PSoC5/isr_TC.c **** #include <project.h>
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 2
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 2
 
 
   31:Generated_Source\PSoC5/isr_TC.c **** /* `#END` */
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
   85:Generated_Source\PSoC5/isr_TC.c **** *  the interrupt to the interrupt controller.
   86:Generated_Source\PSoC5/isr_TC.c **** *  
   87:Generated_Source\PSoC5/isr_TC.c **** *  When defining ISR functions, the CY_ISR and CY_ISR_PROTO macros should be 
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 3
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 3
 
 
   88:Generated_Source\PSoC5/isr_TC.c **** *  used to provide consistent definition across compilers:
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  142:Generated_Source\PSoC5/isr_TC.c **** 
  143:Generated_Source\PSoC5/isr_TC.c **** 
  144:Generated_Source\PSoC5/isr_TC.c **** /*******************************************************************************
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 4
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 4
 
 
  145:Generated_Source\PSoC5/isr_TC.c **** * Function Name: isr_TC_Interrupt
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  182:Generated_Source\PSoC5/isr_TC.c **** *   When defining ISR functions, the CY_ISR and CY_ISR_PROTO macros should be 
  183:Generated_Source\PSoC5/isr_TC.c **** *   used to provide consistent definition across compilers:
  184:Generated_Source\PSoC5/isr_TC.c **** *
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 5
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 5
 
 
  185:Generated_Source\PSoC5/isr_TC.c **** *   Function definition example:
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  211:Generated_Source\PSoC5/isr_TC.c **** * Function Name: isr_TC_GetVector
  212:Generated_Source\PSoC5/isr_TC.c **** ********************************************************************************
  213:Generated_Source\PSoC5/isr_TC.c **** *
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 6
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 6
 
 
  214:Generated_Source\PSoC5/isr_TC.c **** * Summary:
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  241:Generated_Source\PSoC5/isr_TC.c **** *   Note calling isr_TC_Start or isr_TC_StartEx will 
  242:Generated_Source\PSoC5/isr_TC.c **** *   override any effect this API would have had. This API should only be called
  243:Generated_Source\PSoC5/isr_TC.c **** *   after isr_TC_Start or isr_TC_StartEx has been called. 
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 7
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 7
 
 
  244:Generated_Source\PSoC5/isr_TC.c **** *   To set the initial priority for the component, use the Design-Wide Resources
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  270:Generated_Source\PSoC5/isr_TC.c **** *
  271:Generated_Source\PSoC5/isr_TC.c **** * Parameters:
  272:Generated_Source\PSoC5/isr_TC.c **** *   None
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 8
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 8
 
 
  273:Generated_Source\PSoC5/isr_TC.c **** *
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  299:Generated_Source\PSoC5/isr_TC.c **** *
  300:Generated_Source\PSoC5/isr_TC.c **** * Parameters:
  301:Generated_Source\PSoC5/isr_TC.c **** *   None
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 9
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 9
 
 
  302:Generated_Source\PSoC5/isr_TC.c **** *
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  182              		.cfi_startproc
  183              		@ args = 0, pretend = 0, frame = 0
  184              		@ frame_needed = 0, uses_anonymous_args = 0
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 10
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 10
 
 
  185              		@ link register save eliminated.
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  352:Generated_Source\PSoC5/isr_TC.c ****     *isr_TC_INTC_CLR_EN = isr_TC__INTC_MASK;
  217              		.loc 1 352 0
  218 0000 4FF40032 		mov	r2, #131072
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 11
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 11
 
 
  219 0004 014B     		ldr	r3, .L23
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  268              		.align	2
  269              		.global	isr_TC_StartEx
  270              		.thumb
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 12
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 12
 
 
  271              		.thumb_func
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  137:Generated_Source\PSoC5/isr_TC.c **** 
  319              		.loc 1 137 0
  320 0002 FFF7FEFF 		bl	isr_TC_Disable
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 13
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 13
 
 
  321              	.LVL16:
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  348 0000 4FF40032 		mov	r2, #131072
  349 0004 014B     		ldr	r3, .L36
  350 0006 1A60     		str	r2, [r3]
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 14
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 14
 
 
  351 0008 7047     		bx	lr
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  380 000c 80E200E0 		.word	-536812928
  381              		.cfi_endproc
  382              	.LFE75:
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 15
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 15
 
 
  383              		.size	isr_TC_ClearPending, .-isr_TC_ClearPending
@@ -855,10 +855,10 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  394 0006 00000000 		.4byte	.Ldebug_abbrev0
  395 000a 04       		.byte	0x4
  396 000b 01       		.uleb128 0x1
- 397 000c F9000000 		.4byte	.LASF36
+ 397 000c A0000000 		.4byte	.LASF36
  398 0010 0C       		.byte	0xc
- 399 0011 7C020000 		.4byte	.LASF37
- 400 0015 32000000 		.4byte	.LASF38
+ 399 0011 23020000 		.4byte	.LASF37
+ 400 0015 78020000 		.4byte	.LASF38
  401 0019 00000000 		.4byte	.Ldebug_ranges0+0
  402 001d 00000000 		.4byte	0
  403 0021 00000000 		.4byte	.Ldebug_line0
@@ -869,88 +869,88 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  408 002c 03       		.uleb128 0x3
  409 002d 04       		.byte	0x4
  410 002e 07       		.byte	0x7
- 411 002f 0A020000 		.4byte	.LASF0
+ 411 002f B1010000 		.4byte	.LASF0
  412 0033 03       		.uleb128 0x3
  413 0034 08       		.byte	0x8
  414 0035 05       		.byte	0x5
- 415 0036 6E020000 		.4byte	.LASF1
+ 415 0036 15020000 		.4byte	.LASF1
  416 003a 03       		.uleb128 0x3
  417 003b 08       		.byte	0x8
  418 003c 04       		.byte	0x4
- 419 003d DA020000 		.4byte	.LASF2
+ 419 003d 1A030000 		.4byte	.LASF2
  420 0041 03       		.uleb128 0x3
  421 0042 01       		.byte	0x1
  422 0043 06       		.byte	0x6
- 423 0044 43020000 		.4byte	.LASF3
+ 423 0044 EA010000 		.4byte	.LASF3
  424 0048 03       		.uleb128 0x3
  425 0049 01       		.byte	0x1
  426 004a 08       		.byte	0x8
- 427 004b EB000000 		.4byte	.LASF4
+ 427 004b 92000000 		.4byte	.LASF4
  428 004f 03       		.uleb128 0x3
  429 0050 02       		.byte	0x2
  430 0051 05       		.byte	0x5
- 431 0052 B0020000 		.4byte	.LASF5
+ 431 0052 57020000 		.4byte	.LASF5
  432 0056 03       		.uleb128 0x3
  433 0057 02       		.byte	0x2
  434 0058 07       		.byte	0x7
- 435 0059 C1010000 		.4byte	.LASF6
+ 435 0059 68010000 		.4byte	.LASF6
  436 005d 04       		.uleb128 0x4
  437 005e 19000000 		.4byte	.LASF12
  438 0062 02       		.byte	0x2
  439 0063 3F       		.byte	0x3f
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 16
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 16
 
 
  440 0064 68000000 		.4byte	0x68
  441 0068 03       		.uleb128 0x3
  442 0069 04       		.byte	0x4
  443 006a 05       		.byte	0x5
- 444 006b D1020000 		.4byte	.LASF7
+ 444 006b 32000000 		.4byte	.LASF7
  445 006f 03       		.uleb128 0x3
  446 0070 04       		.byte	0x4
  447 0071 07       		.byte	0x7
- 448 0072 AF010000 		.4byte	.LASF8
+ 448 0072 56010000 		.4byte	.LASF8
  449 0076 03       		.uleb128 0x3
  450 0077 08       		.byte	0x8
  451 0078 07       		.byte	0x7
- 452 0079 1F020000 		.4byte	.LASF9
+ 452 0079 C6010000 		.4byte	.LASF9
  453 007d 03       		.uleb128 0x3
  454 007e 04       		.byte	0x4
  455 007f 07       		.byte	0x7
- 456 0080 65020000 		.4byte	.LASF10
+ 456 0080 0C020000 		.4byte	.LASF10
  457 0084 03       		.uleb128 0x3
  458 0085 01       		.byte	0x1
  459 0086 08       		.byte	0x8
- 460 0087 9C020000 		.4byte	.LASF11
+ 460 0087 43020000 		.4byte	.LASF11
  461 008b 05       		.uleb128 0x5
  462 008c 04       		.byte	0x4
  463 008d 91000000 		.4byte	0x91
  464 0091 06       		.uleb128 0x6
  465 0092 04       		.uleb128 0x4
- 466 0093 5D020000 		.4byte	.LASF13
+ 466 0093 04020000 		.4byte	.LASF13
  467 0097 03       		.byte	0x3
  468 0098 2C       		.byte	0x2c
  469 0099 5D000000 		.4byte	0x5d
  470 009d 07       		.uleb128 0x7
- 471 009e BA020000 		.4byte	.LASF14
+ 471 009e 61020000 		.4byte	.LASF14
  472 00a2 04       		.byte	0x4
  473 00a3 E701     		.2byte	0x1e7
  474 00a5 48000000 		.4byte	0x48
  475 00a9 07       		.uleb128 0x7
- 476 00aa 03020000 		.4byte	.LASF15
+ 476 00aa AA010000 		.4byte	.LASF15
  477 00ae 04       		.byte	0x4
  478 00af E901     		.2byte	0x1e9
  479 00b1 6F000000 		.4byte	0x6f
  480 00b5 03       		.uleb128 0x3
  481 00b6 04       		.byte	0x4
  482 00b7 04       		.byte	0x4
- 483 00b8 C6000000 		.4byte	.LASF16
+ 483 00b8 6D000000 		.4byte	.LASF16
  484 00bc 03       		.uleb128 0x3
  485 00bd 08       		.byte	0x8
  486 00be 04       		.byte	0x4
- 487 00bf F3010000 		.4byte	.LASF17
+ 487 00bf 9A010000 		.4byte	.LASF17
  488 00c3 07       		.uleb128 0x7
- 489 00c4 87010000 		.4byte	.LASF18
+ 489 00c4 2E010000 		.4byte	.LASF18
  490 00c8 04       		.byte	0x4
  491 00c9 9102     		.2byte	0x291
  492 00cb CF000000 		.4byte	0xcf
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  494 00d0 9D000000 		.4byte	0x9d
  495 00d4 07       		.uleb128 0x7
  496 00d5 13000000 		.4byte	.LASF19
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 17
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 17
 
 
  497 00d9 04       		.byte	0x4
@@ -967,12 +967,12 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  500 00e0 08       		.uleb128 0x8
  501 00e1 A9000000 		.4byte	0xa9
  502 00e5 07       		.uleb128 0x7
- 503 00e6 36020000 		.4byte	.LASF20
+ 503 00e6 DD010000 		.4byte	.LASF20
  504 00ea 04       		.byte	0x4
  505 00eb A302     		.2byte	0x2a3
  506 00ed 8B000000 		.4byte	0x8b
  507 00f1 09       		.uleb128 0x9
- 508 00f2 B5000000 		.4byte	.LASF28
+ 508 00f2 5C000000 		.4byte	.LASF28
  509 00f6 01       		.byte	0x1
  510 00f7 A0       		.byte	0xa0
  511 00f8 00000000 		.4byte	.LFB66
@@ -980,7 +980,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  513 0100 01       		.uleb128 0x1
  514 0101 9C       		.byte	0x9c
  515 0102 0A       		.uleb128 0xa
- 516 0103 C0020000 		.4byte	.LASF22
+ 516 0103 67020000 		.4byte	.LASF22
  517 0107 01       		.byte	0x1
  518 0108 C8       		.byte	0xc8
  519 0109 00000000 		.4byte	.LFB67
@@ -989,14 +989,14 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  522 0112 9C       		.byte	0x9c
  523 0113 32010000 		.4byte	0x132
  524 0117 0B       		.uleb128 0xb
- 525 0118 17020000 		.4byte	.LASF24
+ 525 0118 BE010000 		.4byte	.LASF24
  526 011c 01       		.byte	0x1
  527 011d C8       		.byte	0xc8
  528 011e E5000000 		.4byte	0xe5
  529 0122 01       		.uleb128 0x1
  530 0123 50       		.byte	0x50
  531 0124 0C       		.uleb128 0xc
- 532 0125 A1020000 		.4byte	.LASF21
+ 532 0125 48020000 		.4byte	.LASF21
  533 0129 01       		.byte	0x1
  534 012a CA       		.byte	0xca
  535 012b 32010000 		.4byte	0x132
@@ -1007,7 +1007,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  540 0133 04       		.byte	0x4
  541 0134 E5000000 		.4byte	0xe5
  542 0138 0D       		.uleb128 0xd
- 543 0139 A4000000 		.4byte	.LASF26
+ 543 0139 4B000000 		.4byte	.LASF26
  544 013d 01       		.byte	0x1
  545 013e E0       		.byte	0xe0
  546 013f E5000000 		.4byte	0xe5
@@ -1017,8 +1017,8 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  550 014c 9C       		.byte	0x9c
  551 014d 5F010000 		.4byte	0x15f
  552 0151 0C       		.uleb128 0xc
- 553 0152 A1020000 		.4byte	.LASF21
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 18
+ 553 0152 48020000 		.4byte	.LASF21
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 18
 
 
  554 0156 01       		.byte	0x1
@@ -1028,7 +1028,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  558 015d 53       		.byte	0x53
  559 015e 00       		.byte	0
  560 015f 0E       		.uleb128 0xe
- 561 0160 D8000000 		.4byte	.LASF23
+ 561 0160 7F000000 		.4byte	.LASF23
  562 0164 01       		.byte	0x1
  563 0165 0201     		.2byte	0x102
  564 0167 00000000 		.4byte	.LFB69
@@ -1037,7 +1037,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  567 0170 9C       		.byte	0x9c
  568 0171 86010000 		.4byte	0x186
  569 0175 0F       		.uleb128 0xf
- 570 0176 FA010000 		.4byte	.LASF25
+ 570 0176 A1010000 		.4byte	.LASF25
  571 017a 01       		.byte	0x1
  572 017b 0201     		.2byte	0x102
  573 017d 9D000000 		.4byte	0x9d
@@ -1054,14 +1054,14 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  584 019b 9C       		.byte	0x9c
  585 019c B1010000 		.4byte	0x1b1
  586 01a0 11       		.uleb128 0x11
- 587 01a1 FA010000 		.4byte	.LASF25
+ 587 01a1 A1010000 		.4byte	.LASF25
  588 01a5 01       		.byte	0x1
  589 01a6 1A01     		.2byte	0x11a
  590 01a8 9D000000 		.4byte	0x9d
  591 01ac 21000000 		.4byte	.LLST1
  592 01b0 00       		.byte	0
  593 01b1 12       		.uleb128 0x12
- 594 01b2 4F020000 		.4byte	.LASF29
+ 594 01b2 F6010000 		.4byte	.LASF29
  595 01b6 01       		.byte	0x1
  596 01b7 3301     		.2byte	0x133
  597 01b9 00000000 		.4byte	.LFB71
@@ -1069,7 +1069,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  599 01c1 01       		.uleb128 0x1
  600 01c2 9C       		.byte	0x9c
  601 01c3 13       		.uleb128 0x13
- 602 01c4 94000000 		.4byte	.LASF39
+ 602 01c4 3B000000 		.4byte	.LASF39
  603 01c8 01       		.byte	0x1
  604 01c9 4801     		.2byte	0x148
  605 01cb 9D000000 		.4byte	0x9d
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  608 01d7 01       		.uleb128 0x1
  609 01d8 9C       		.byte	0x9c
  610 01d9 12       		.uleb128 0x12
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 19
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 19
 
 
  611 01da 23000000 		.4byte	.LASF30
@@ -1089,7 +1089,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  616 01e9 01       		.uleb128 0x1
  617 01ea 9C       		.byte	0x9c
  618 01eb 0A       		.uleb128 0xa
- 619 01ec E6020000 		.4byte	.LASF31
+ 619 01ec 26030000 		.4byte	.LASF31
  620 01f0 01       		.byte	0x1
  621 01f1 3D       		.byte	0x3d
  622 01f2 00000000 		.4byte	.LFB63
@@ -1126,7 +1126,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  653 0238 B1010000 		.4byte	0x1b1
  654 023c 00       		.byte	0
  655 023d 0A       		.uleb128 0xa
- 656 023e A0010000 		.4byte	.LASF32
+ 656 023e 47010000 		.4byte	.LASF32
  657 0242 01       		.byte	0x1
  658 0243 68       		.byte	0x68
  659 0244 00000000 		.4byte	.LFB64
@@ -1135,10 +1135,10 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  662 024d 9C       		.byte	0x9c
  663 024e 9B020000 		.4byte	0x29b
  664 0252 17       		.uleb128 0x17
- 665 0253 17020000 		.4byte	.LASF24
+ 665 0253 BE010000 		.4byte	.LASF24
  666 0257 01       		.byte	0x1
  667 0258 68       		.byte	0x68
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 20
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 20
 
 
  668 0259 E5000000 		.4byte	0xe5
@@ -1172,7 +1172,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  696 0296 B1010000 		.4byte	0x1b1
  697 029a 00       		.byte	0
  698 029b 0A       		.uleb128 0xa
- 699 029c CC000000 		.4byte	.LASF33
+ 699 029c 73000000 		.4byte	.LASF33
  700 02a0 01       		.byte	0x1
  701 02a1 86       		.byte	0x86
  702 02a2 00000000 		.4byte	.LFB65
@@ -1188,7 +1188,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  712 02be 02010000 		.4byte	0x102
  713 02c2 00       		.byte	0
  714 02c3 12       		.uleb128 0x12
- 715 02c4 E1010000 		.4byte	.LASF34
+ 715 02c4 88010000 		.4byte	.LASF34
  716 02c8 01       		.byte	0x1
  717 02c9 7801     		.2byte	0x178
  718 02cb 00000000 		.4byte	.LFB74
@@ -1196,9 +1196,9 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  720 02d3 01       		.uleb128 0x1
  721 02d4 9C       		.byte	0x9c
  722 02d5 12       		.uleb128 0x12
- 723 02d6 8C010000 		.4byte	.LASF35
+ 723 02d6 33010000 		.4byte	.LASF35
  724 02da 01       		.byte	0x1
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 21
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 21
 
 
  725 02db 9101     		.2byte	0x191
@@ -1207,7 +1207,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  728 02e5 01       		.uleb128 0x1
  729 02e6 9C       		.byte	0x9c
  730 02e7 18       		.uleb128 0x18
- 731 02e8 D4010000 		.4byte	.LASF40
+ 731 02e8 7B010000 		.4byte	.LASF40
  732 02ec 05       		.byte	0x5
  733 02ed 1207     		.2byte	0x712
  734 02ef F3020000 		.4byte	0x2f3
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  779 0027 00       		.byte	0
  780 0028 00       		.byte	0
  781 0029 04       		.uleb128 0x4
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 22
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 22
 
 
  782 002a 16       		.uleb128 0x16
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  836 0060 0E       		.uleb128 0xe
  837 0061 3A       		.uleb128 0x3a
  838 0062 0B       		.uleb128 0xb
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 23
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 23
 
 
  839 0063 3B       		.uleb128 0x3b
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  893 009b 0C       		.uleb128 0xc
  894 009c 34       		.uleb128 0x34
  895 009d 00       		.byte	0
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 24
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 24
 
 
  896 009e 03       		.uleb128 0x3
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  950 00d5 12       		.uleb128 0x12
  951 00d6 06       		.uleb128 0x6
  952 00d7 40       		.uleb128 0x40
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 25
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 25
 
 
  953 00d8 18       		.uleb128 0x18
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  1007 0110 3A       		.uleb128 0x3a
  1008 0111 0B       		.uleb128 0xb
  1009 0112 3B       		.uleb128 0x3b
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 26
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 26
 
 
  1010 0113 05       		.uleb128 0x5
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  1064 014b 00       		.byte	0
  1065 014c 14       		.uleb128 0x14
  1066 014d 898201   		.uleb128 0x4109
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 27
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 27
 
 
  1067 0150 00       		.byte	0
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  1121 018b 19       		.uleb128 0x19
  1122 018c 3C       		.uleb128 0x3c
  1123 018d 19       		.uleb128 0x19
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 28
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 28
 
 
  1124 018e 00       		.byte	0
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  1178 0024 10000000 		.4byte	.LFE68-.LFB68
  1179 0028 00000000 		.4byte	.LFB69
  1180 002c 10000000 		.4byte	.LFE69-.LFB69
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 29
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 29
 
 
  1181 0030 00000000 		.4byte	.LFB70
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  1233      00000201 
  1233      FB0E0D00 
  1233      01010101 
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 30
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 30
 
 
  1234              	.LASF27:
@@ -1759,203 +1759,212 @@ ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 1
  1241      54435F44 
  1241      69736162 
  1241      6C6500
- 1242              	.LASF38:
- 1243 0032 433A5C55 		.ascii	"C:\\Users\\lthw148\\Downloads\\psoc student pack\\p"
- 1243      73657273 
- 1243      5C6C7468 
- 1243      77313438 
- 1243      5C446F77 
- 1244 0060 736F6320 		.ascii	"soc student pack\\lab exercise\\psoc_intro\\lab3.cy"
- 1244      73747564 
- 1244      656E7420 
- 1244      7061636B 
- 1244      5C6C6162 
- 1245 0090 64736E00 		.ascii	"dsn\000"
- 1246              	.LASF39:
- 1247 0094 6973725F 		.ascii	"isr_TC_GetState\000"
+ 1242              	.LASF7:
+ 1243 0032 6C6F6E67 		.ascii	"long int\000"
+ 1243      20696E74 
+ 1243      00
+ 1244              	.LASF39:
+ 1245 003b 6973725F 		.ascii	"isr_TC_GetState\000"
+ 1245      54435F47 
+ 1245      65745374 
+ 1245      61746500 
+ 1246              	.LASF26:
+ 1247 004b 6973725F 		.ascii	"isr_TC_GetVector\000"
  1247      54435F47 
- 1247      65745374 
- 1247      61746500 
- 1248              	.LASF26:
- 1249 00a4 6973725F 		.ascii	"isr_TC_GetVector\000"
- 1249      54435F47 
- 1249      65745665 
- 1249      63746F72 
+ 1247      65745665 
+ 1247      63746F72 
+ 1247      00
+ 1248              	.LASF28:
+ 1249 005c 6973725F 		.ascii	"isr_TC_Interrupt\000"
+ 1249      54435F49 
+ 1249      6E746572 
+ 1249      72757074 
  1249      00
- 1250              	.LASF28:
- 1251 00b5 6973725F 		.ascii	"isr_TC_Interrupt\000"
- 1251      54435F49 
- 1251      6E746572 
- 1251      72757074 
- 1251      00
- 1252              	.LASF16:
- 1253 00c6 666C6F61 		.ascii	"float\000"
- 1253      7400
- 1254              	.LASF33:
- 1255 00cc 6973725F 		.ascii	"isr_TC_Stop\000"
+ 1250              	.LASF16:
+ 1251 006d 666C6F61 		.ascii	"float\000"
+ 1251      7400
+ 1252              	.LASF33:
+ 1253 0073 6973725F 		.ascii	"isr_TC_Stop\000"
+ 1253      54435F53 
+ 1253      746F7000 
+ 1254              	.LASF23:
+ 1255 007f 6973725F 		.ascii	"isr_TC_SetPriority\000"
  1255      54435F53 
- 1255      746F7000 
- 1256              	.LASF23:
- 1257 00d8 6973725F 		.ascii	"isr_TC_SetPriority\000"
- 1257      54435F53 
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 31
+ 1255      65745072 
+ 1255      696F7269 
+ 1255      747900
+ 1256              	.LASF4:
+ 1257 0092 756E7369 		.ascii	"unsigned char\000"
+ 1257      676E6564 
+ 1257      20636861 
+ 1257      7200
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 31
 
 
- 1257      65745072 
- 1257      696F7269 
- 1257      747900
- 1258              	.LASF4:
- 1259 00eb 756E7369 		.ascii	"unsigned char\000"
- 1259      676E6564 
- 1259      20636861 
- 1259      7200
- 1260              	.LASF36:
- 1261 00f9 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
- 1261      43313120 
- 1261      352E342E 
- 1261      31203230 
- 1261      31363036 
- 1262 012c 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
- 1262      20726576 
- 1262      6973696F 
- 1262      6E203233 
- 1262      37373135 
- 1263 015f 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
- 1263      66756E63 
- 1263      74696F6E 
- 1263      2D736563 
- 1263      74696F6E 
- 1264              	.LASF18:
- 1265 0187 72656738 		.ascii	"reg8\000"
- 1265      00
- 1266              	.LASF35:
- 1267 018c 6973725F 		.ascii	"isr_TC_ClearPending\000"
- 1267      54435F43 
- 1267      6C656172 
- 1267      50656E64 
- 1267      696E6700 
- 1268              	.LASF32:
- 1269 01a0 6973725F 		.ascii	"isr_TC_StartEx\000"
- 1269      54435F53 
- 1269      74617274 
- 1269      457800
- 1270              	.LASF8:
- 1271 01af 6C6F6E67 		.ascii	"long unsigned int\000"
- 1271      20756E73 
- 1271      69676E65 
- 1271      6420696E 
- 1271      7400
- 1272              	.LASF6:
- 1273 01c1 73686F72 		.ascii	"short unsigned int\000"
- 1273      7420756E 
- 1273      7369676E 
- 1273      65642069 
- 1273      6E7400
- 1274              	.LASF40:
- 1275 01d4 49544D5F 		.ascii	"ITM_RxBuffer\000"
- 1275      52784275 
- 1275      66666572 
- 1275      00
- 1276              	.LASF34:
- 1277 01e1 6973725F 		.ascii	"isr_TC_SetPending\000"
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 32
+ 1258              	.LASF36:
+ 1259 00a0 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 1259      43313120 
+ 1259      352E342E 
+ 1259      31203230 
+ 1259      31363036 
+ 1260 00d3 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
+ 1260      20726576 
+ 1260      6973696F 
+ 1260      6E203233 
+ 1260      37373135 
+ 1261 0106 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
+ 1261      66756E63 
+ 1261      74696F6E 
+ 1261      2D736563 
+ 1261      74696F6E 
+ 1262              	.LASF18:
+ 1263 012e 72656738 		.ascii	"reg8\000"
+ 1263      00
+ 1264              	.LASF35:
+ 1265 0133 6973725F 		.ascii	"isr_TC_ClearPending\000"
+ 1265      54435F43 
+ 1265      6C656172 
+ 1265      50656E64 
+ 1265      696E6700 
+ 1266              	.LASF32:
+ 1267 0147 6973725F 		.ascii	"isr_TC_StartEx\000"
+ 1267      54435F53 
+ 1267      74617274 
+ 1267      457800
+ 1268              	.LASF8:
+ 1269 0156 6C6F6E67 		.ascii	"long unsigned int\000"
+ 1269      20756E73 
+ 1269      69676E65 
+ 1269      6420696E 
+ 1269      7400
+ 1270              	.LASF6:
+ 1271 0168 73686F72 		.ascii	"short unsigned int\000"
+ 1271      7420756E 
+ 1271      7369676E 
+ 1271      65642069 
+ 1271      6E7400
+ 1272              	.LASF40:
+ 1273 017b 49544D5F 		.ascii	"ITM_RxBuffer\000"
+ 1273      52784275 
+ 1273      66666572 
+ 1273      00
+ 1274              	.LASF34:
+ 1275 0188 6973725F 		.ascii	"isr_TC_SetPending\000"
+ 1275      54435F53 
+ 1275      65745065 
+ 1275      6E64696E 
+ 1275      6700
+ 1276              	.LASF17:
+ 1277 019a 646F7562 		.ascii	"double\000"
+ 1277      6C6500
+ 1278              	.LASF25:
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 32
 
 
- 1277      54435F53 
- 1277      65745065 
- 1277      6E64696E 
- 1277      6700
- 1278              	.LASF17:
- 1279 01f3 646F7562 		.ascii	"double\000"
- 1279      6C6500
- 1280              	.LASF25:
- 1281 01fa 7072696F 		.ascii	"priority\000"
- 1281      72697479 
- 1281      00
- 1282              	.LASF15:
- 1283 0203 75696E74 		.ascii	"uint32\000"
- 1283      333200
- 1284              	.LASF0:
- 1285 020a 756E7369 		.ascii	"unsigned int\000"
- 1285      676E6564 
- 1285      20696E74 
- 1285      00
- 1286              	.LASF24:
- 1287 0217 61646472 		.ascii	"address\000"
- 1287      65737300 
- 1288              	.LASF9:
- 1289 021f 6C6F6E67 		.ascii	"long long unsigned int\000"
- 1289      206C6F6E 
- 1289      6720756E 
- 1289      7369676E 
- 1289      65642069 
- 1290              	.LASF20:
- 1291 0236 63796973 		.ascii	"cyisraddress\000"
- 1291      72616464 
- 1291      72657373 
- 1291      00
- 1292              	.LASF3:
- 1293 0243 7369676E 		.ascii	"signed char\000"
- 1293      65642063 
- 1293      68617200 
- 1294              	.LASF29:
- 1295 024f 6973725F 		.ascii	"isr_TC_Enable\000"
- 1295      54435F45 
- 1295      6E61626C 
- 1295      6500
- 1296              	.LASF13:
- 1297 025d 696E7433 		.ascii	"int32_t\000"
- 1297      325F7400 
- 1298              	.LASF10:
- 1299 0265 73697A65 		.ascii	"sizetype\000"
- 1299      74797065 
- 1299      00
- 1300              	.LASF1:
- 1301 026e 6C6F6E67 		.ascii	"long long int\000"
- 1301      206C6F6E 
- 1301      6720696E 
- 1301      7400
- 1302              	.LASF37:
- 1303 027c 47656E65 		.ascii	"Generated_Source\\PSoC5\\isr_TC.c\000"
- 1303      72617465 
-ARM GAS  C:\Users\lthw148\AppData\Local\Temp\ccZ16TtV.s 			page 33
+ 1279 01a1 7072696F 		.ascii	"priority\000"
+ 1279      72697479 
+ 1279      00
+ 1280              	.LASF15:
+ 1281 01aa 75696E74 		.ascii	"uint32\000"
+ 1281      333200
+ 1282              	.LASF0:
+ 1283 01b1 756E7369 		.ascii	"unsigned int\000"
+ 1283      676E6564 
+ 1283      20696E74 
+ 1283      00
+ 1284              	.LASF24:
+ 1285 01be 61646472 		.ascii	"address\000"
+ 1285      65737300 
+ 1286              	.LASF9:
+ 1287 01c6 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 1287      206C6F6E 
+ 1287      6720756E 
+ 1287      7369676E 
+ 1287      65642069 
+ 1288              	.LASF20:
+ 1289 01dd 63796973 		.ascii	"cyisraddress\000"
+ 1289      72616464 
+ 1289      72657373 
+ 1289      00
+ 1290              	.LASF3:
+ 1291 01ea 7369676E 		.ascii	"signed char\000"
+ 1291      65642063 
+ 1291      68617200 
+ 1292              	.LASF29:
+ 1293 01f6 6973725F 		.ascii	"isr_TC_Enable\000"
+ 1293      54435F45 
+ 1293      6E61626C 
+ 1293      6500
+ 1294              	.LASF13:
+ 1295 0204 696E7433 		.ascii	"int32_t\000"
+ 1295      325F7400 
+ 1296              	.LASF10:
+ 1297 020c 73697A65 		.ascii	"sizetype\000"
+ 1297      74797065 
+ 1297      00
+ 1298              	.LASF1:
+ 1299 0215 6C6F6E67 		.ascii	"long long int\000"
+ 1299      206C6F6E 
+ 1299      6720696E 
+ 1299      7400
+ 1300              	.LASF37:
+ 1301 0223 47656E65 		.ascii	"Generated_Source\\PSoC5\\isr_TC.c\000"
+ 1301      72617465 
+ 1301      645F536F 
+ 1301      75726365 
+ 1301      5C50536F 
+ 1302              	.LASF11:
+ 1303 0243 63686172 		.ascii	"char\000"
+ 1303      00
+ 1304              	.LASF21:
+ 1305 0248 72616D56 		.ascii	"ramVectorTable\000"
+ARM GAS  C:\Users\lthw148\AppData\Local\Temp\cc5SpxTd.s 			page 33
 
 
- 1303      645F536F 
- 1303      75726365 
- 1303      5C50536F 
- 1304              	.LASF11:
- 1305 029c 63686172 		.ascii	"char\000"
- 1305      00
- 1306              	.LASF21:
- 1307 02a1 72616D56 		.ascii	"ramVectorTable\000"
- 1307      6563746F 
- 1307      72546162 
- 1307      6C6500
- 1308              	.LASF5:
- 1309 02b0 73686F72 		.ascii	"short int\000"
- 1309      7420696E 
- 1309      7400
- 1310              	.LASF14:
- 1311 02ba 75696E74 		.ascii	"uint8\000"
- 1311      3800
- 1312              	.LASF22:
- 1313 02c0 6973725F 		.ascii	"isr_TC_SetVector\000"
- 1313      54435F53 
- 1313      65745665 
- 1313      63746F72 
- 1313      00
- 1314              	.LASF7:
- 1315 02d1 6C6F6E67 		.ascii	"long int\000"
- 1315      20696E74 
- 1315      00
- 1316              	.LASF2:
- 1317 02da 6C6F6E67 		.ascii	"long double\000"
- 1317      20646F75 
- 1317      626C6500 
- 1318              	.LASF31:
- 1319 02e6 6973725F 		.ascii	"isr_TC_Start\000"
- 1319      54435F53 
- 1319      74617274 
- 1319      00
- 1320              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran
+ 1305      6563746F 
+ 1305      72546162 
+ 1305      6C6500
+ 1306              	.LASF5:
+ 1307 0257 73686F72 		.ascii	"short int\000"
+ 1307      7420696E 
+ 1307      7400
+ 1308              	.LASF14:
+ 1309 0261 75696E74 		.ascii	"uint8\000"
+ 1309      3800
+ 1310              	.LASF22:
+ 1311 0267 6973725F 		.ascii	"isr_TC_SetVector\000"
+ 1311      54435F53 
+ 1311      65745665 
+ 1311      63746F72 
+ 1311      00
+ 1312              	.LASF38:
+ 1313 0278 433A5C55 		.ascii	"C:\\Users\\lthw148\\Documents\\GitHub\\ltspice-psoc"
+ 1313      73657273 
+ 1313      5C6C7468 
+ 1313      77313438 
+ 1313      5C446F63 
+ 1314 02a6 5C70736F 		.ascii	"\\psoc student pack (2)\\psoc student pack (2)\\pso"
+ 1314      63207374 
+ 1314      7564656E 
+ 1314      74207061 
+ 1314      636B2028 
+ 1315 02d6 63207374 		.ascii	"c student pack\\psoc student pack\\lab exercise\\ps"
+ 1315      7564656E 
+ 1315      74207061 
+ 1315      636B5C70 
+ 1315      736F6320 
+ 1316 0306 6F635F69 		.ascii	"oc_intro\\lab3.cydsn\000"
+ 1316      6E74726F 
+ 1316      5C6C6162 
+ 1316      332E6379 
+ 1316      64736E00 
+ 1317              	.LASF2:
+ 1318 031a 6C6F6E67 		.ascii	"long double\000"
+ 1318      20646F75 
+ 1318      626C6500 
+ 1319              	.LASF31:
+ 1320 0326 6973725F 		.ascii	"isr_TC_Start\000"
+ 1320      54435F53 
+ 1320      74617274 
+ 1320      00
+ 1321              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran
